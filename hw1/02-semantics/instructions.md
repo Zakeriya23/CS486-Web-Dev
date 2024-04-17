@@ -2,7 +2,7 @@
 
 In this exercise, we will practice writing semantically appropriate HTML.
 
-Note: This exercise can be finished without any knowledge of CC, and there is no need to look into the CSS file.
+Note: This exercise can be finished without any knowledge of styling, and there is no need to look into the CSS file.
 
 First, we should figure out what is meant by the word semantics.
 

@@ -70,6 +70,6 @@ We want to both use the appropriate semantic elements and we want to avoid addin
 
 #### Notes:
 
-- There is limited CSS associated with this exercise, as most elements are rendered using the browser’s default styling. Thus, after fixing the semantic issues the rendered result could be different with the one from the starter file. 
+- There is limited CSS associated with this exercise, as most elements are rendered using the browser’s default styling. Thus, after fixing the semantic issues the rendered result could be different with the one from the starter file.
 - By definition, the [radio buttons](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/radio) require that only one radio button in a given group can be selected at the same time. This should be enforced in this assignments as well as later ones.
 - By definition, [checkboxes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/checkbox) allow multiple selections in a checkbox group.
